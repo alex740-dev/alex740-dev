@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 4th year Computer Science Student from Spain<br>Currently experimenting with Kotlin and Jetpack Compose to develop an Android Application
 
 
