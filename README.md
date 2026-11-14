@@ -1,10 +1,10 @@
 # Alejandro Illueca
 
-Desarrollador full stack y trabajo principalmente en aplicaciones web empresariales vinculadas e integradas con SAP Business One.
+Desarrollador full stack principalmente enfocado en aplicaciones web empresariales vinculadas e integradas con SAP Business One y otros proyectos propios centrados en plataformas móviles con Ionic y React Native 
 
 Actualmente desarrollo y mantengo soluciones con VB.NET, .NET Framework, PHP y CodeIgniter, trabajando con lógica de negocio, procesos empresariales y datos procedentes de Microsoft SQL Server y SAP HANA.
 
-## En qué estoy centrado
+## Trabajo actual
 
 Desarrollo de software aplicado a procesos reales de negocio: entender cómo funciona un proceso, trasladarlo a una aplicación y mantener la solución a medida que cambian las necesidades del cliente corporativo.
 
